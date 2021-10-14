@@ -58,12 +58,52 @@ namespace ElevenNote.WebMVC.Controllers
         }
         
         // GET: Note Details
-        // Note/Details
+        // Note/Details/{id}
         public async Task<ActionResult> Details(int id)
         {
             var service = CreateNoteService();
             var model = await service.GetNoteByIdAysnc(id);
 
+            return View(model);
+        }
+
+        // GET: Note Edit
+        // Note/Edit/{id}
+        public async Task<ActionResult> Edit(int id)
+        {
+            var service = CreateNoteService();
+            var detail = await service.GetNoteByIdAysnc(id);
+            var model = new NoteEdit
+            {
+                NoteId = detail.NoteId,
+                Title = detail.Title,
+                Content = detail.Content
+            };
+
+            return View(model);
+        }
+        // POST: Note Edit
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<ActionResult> Edit(int id, NoteEdit model)
+        {
+            if (model.NoteId != id)
+            {
+                ModelState.AddModelError("", "Id Mismatch");
+                return View(model);
+            }
+
+            if (ModelState.IsValid)
+            {
+                var service = CreateNoteService();
+                if (await service.UpdateNoteAsync(model))
+                {
+                    TempData["SaveResult"] = "Your note was updated.";
+                    return RedirectToAction("Index");
+                }
+                ModelState.AddModelError("", "Your note could not be updated.");
+                return View(model);
+            }
             return View(model);
         }
 
