@@ -14,3 +14,6 @@ D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.D
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialMigration.resources
