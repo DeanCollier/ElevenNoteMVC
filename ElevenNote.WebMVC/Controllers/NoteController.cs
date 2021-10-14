@@ -56,6 +56,16 @@ namespace ElevenNote.WebMVC.Controllers
             }
             return View(model);
         }
+        
+        // GET: Note Details
+        // Note/Details
+        public async Task<ActionResult> Details(int id)
+        {
+            var service = CreateNoteService();
+            var model = await service.GetNoteByIdAysnc(id);
+
+            return View(model);
+        }
 
         
 

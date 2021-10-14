@@ -54,5 +54,24 @@ namespace ElevenNote.Services
                 return await query.ToArrayAsync();
             }
         }
+        // READ
+        public async Task<NoteDetail> GetNoteByIdAysnc(int id)
+        {
+            using (var context = new ApplicationDbContext())
+            {
+                var entity = await context
+                    .Notes
+                    .SingleAsync(e => e.NoteId == id && e.OwnerId == _userId);
+
+                return new NoteDetail
+                {
+                    NoteId = entity.NoteId,
+                    Title = entity.Title,
+                    Content = entity.Content,
+                    CreatedUtc = entity.CreatedUtc,
+                    ModifiedUtc = entity.ModifiedUtc
+                };
+            } 
+        }
     }
 }
