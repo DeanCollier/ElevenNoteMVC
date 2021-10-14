@@ -1,0 +1,16 @@
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll.config
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
