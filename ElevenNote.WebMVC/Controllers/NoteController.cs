@@ -107,6 +107,30 @@ namespace ElevenNote.WebMVC.Controllers
             return View(model);
         }
 
+        // GET: Delete Note
+        // Note/Delete/{id}
+        public async Task<ActionResult> Delete(int id)
+        {
+            var service = CreateNoteService();
+            var model = await service.GetNoteByIdAysnc(id);
+
+            return View(model);
+        }
+        // POST: Delete Note
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<ActionResult> Delete(int id, NoteDetail model)
+        {
+            var service = CreateNoteService();
+            
+            if (await service.DeleteNoteAsync(id))
+            {
+                TempData["SaveResult"] = "Your note was deleted";
+                return RedirectToAction("Index");
+            }
+            return View(model);
+        }
+
         
 
     }

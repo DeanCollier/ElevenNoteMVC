@@ -94,5 +94,18 @@ namespace ElevenNote.Services
                 return await context.SaveChangesAsync() == 1;
             }
         }
+
+        public async Task<bool> DeleteNoteAsync(int id)
+        {
+            using (var context = new ApplicationDbContext())
+            {
+                var entity = await context
+                    .Notes
+                    .SingleAsync(e => e.NoteId == id && e.OwnerId == _userId);
+
+                context.Notes.Remove(entity);
+                return await context.SaveChangesAsync() == 1;
+            }
+        }
     }
 }
