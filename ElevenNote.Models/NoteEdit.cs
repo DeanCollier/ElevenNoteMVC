@@ -17,5 +17,6 @@ namespace ElevenNote.Models
 
         [MaxLength(8000, ErrorMessage = "There are too many characters in this field")]
         public string Content { get; set; }
+        public bool IsStarred { get; set; }
     }
 }

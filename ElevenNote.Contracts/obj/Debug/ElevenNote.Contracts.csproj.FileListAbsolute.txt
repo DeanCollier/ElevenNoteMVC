@@ -14,3 +14,11 @@ D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenN
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CopyComplete
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.dll
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.pdb
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\Newtonsoft.Json.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Net.Http.Formatting.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.WebHost.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\Newtonsoft.Json.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Net.Http.Formatting.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.WebHost.xml

@@ -28,6 +28,9 @@
             @Html.DisplayNameFor(model => model.NoteId)
         </th>
         <th>
+            @Html.DisplayNameFor(model => model.isStarred)
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.CreatedUtc)
         </th>
         <th></th>
@@ -42,6 +45,9 @@
             @Html.DisplayFor(modelItem => item.NoteId)
         </td>
         <td>
+            @Html.DisplayFor(modelItem => item.isStarred, new { Id = item.NoteId })
+        </td>
+        <td>
             @Html.DisplayFor(modelItem => item.CreatedUtc)
         </td>
         <td>
@@ -53,3 +59,17 @@
 }
 
 </table>
+
+@section scripts{
+    <script language="javascript" type="text/javascript">
+        $(document).ready(fucntion() {
+            $("i[data-toggle='star']")
+                .css({ "cursor": "pointer" })
+                    .click(function (e) {
+
+                    })
+        })
+    </script>
+    
+    
+}

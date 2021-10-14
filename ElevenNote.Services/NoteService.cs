@@ -48,6 +48,7 @@ namespace ElevenNote.Services
                     {
                         NoteId = e.NoteId,
                         Title = e.Title,
+                        isStarred = e.isStarred,
                         CreatedUtc = e.CreatedUtc
                     });
 
@@ -74,6 +75,7 @@ namespace ElevenNote.Services
             } 
         }
 
+        // UPDATE
         public async Task<bool> UpdateNoteAsync(NoteEdit model)
         {
             using (var context = new ApplicationDbContext())
@@ -90,11 +92,13 @@ namespace ElevenNote.Services
                 {
                     entity.Content = model.Content;
                 }
+                entity.isStarred = model.IsStarred;
 
                 return await context.SaveChangesAsync() == 1;
             }
         }
 
+        // DELETE
         public async Task<bool> DeleteNoteAsync(int id)
         {
             using (var context = new ApplicationDbContext())

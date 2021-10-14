@@ -115,3 +115,9 @@ D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.CodeDo
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CopyComplete
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.dll
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.pdb
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml

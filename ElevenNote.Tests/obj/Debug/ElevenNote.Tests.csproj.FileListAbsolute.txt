@@ -21,3 +21,11 @@ D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CopyComplete
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.dll
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.pdb
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.WebHost.xml

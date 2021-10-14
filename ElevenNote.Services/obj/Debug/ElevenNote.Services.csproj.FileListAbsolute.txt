@@ -20,3 +20,11 @@ D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNo
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.dll
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+D:\1150\Week17\Eleven_Note_MVC\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.xml
